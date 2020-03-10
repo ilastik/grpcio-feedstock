@@ -1,7 +1,7 @@
 channel_sources:
 - conda-forge,defaults
 channel_targets:
-- m-novikov main
+- ilastik-forge main
 openssl:
 - 1.0
 pin_run_as_build:
